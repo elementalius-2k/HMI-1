@@ -1,0 +1,60 @@
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.Cardiogram.resources
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.Cache
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
+C:\Users\Olya\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.Cardiogram.resources
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\1\Desktop\ЧМИ\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.Cardiogram.resources
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\1\Desktop\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.Cardiogram.resources
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\1\Desktop\Прошедшее\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.Cardiogram.resources
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.cache
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\eleme\Downloads\ЧМИ\1 att\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\obj\Debug\FirstProject.Cardiogram.resources
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\obj\Debug\FirstProject.Properties.Resources.resources
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.GenerateResource.cache
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\eleme\Downloads\ЧМИ нужное\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
